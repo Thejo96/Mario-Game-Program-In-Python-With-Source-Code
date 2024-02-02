@@ -33,6 +33,20 @@ bash
 Copy code
 python main.py
 Contributions
+
+# SimpleMarioGame  "screenshot"
+
+![cactus](https://github.com/Thejo96/Mario-Game-Program-In-Python-With-Source-Code/assets/132360887/93e0449f-0a4d-4a06-b10a-7d7594e57a5d)
+![bricks](https://github.com/Thejo96/Mario-Game-Program-In-Python-With-Source-Code/assets/132360887/9007ff51-76c4-4a00-95b9-deac38375940)
+![start](https://github.com/Thejo96/Mario-Game-Program-In-Python-With-Source-Code/assets/132360887/fc307ee1-f7c3-4b07-a714-6c43eaa7c399)
+![maryo](https://github.com/Thejo96/Mario-Game-Program-In-Python-With-Source-Code/assets/132360887/10286bd7-7f11-48fc-961f-62d7a0f4522a)
+![fireball](https://github.com/Thejo96/Mario-Game-Program-In-Python-With-Source-Code/assets/132360887/8283b2cf-3a07-4386-8f7a-fc84bf23fb59)
+![fire_bricks](https://github.com/Thejo96/Mario-Game-Program-In-Python-With-Source-Code/assets/132360887/d3bbbe23-a32f-458b-b956-0b320d037cfd)
+![fire](https://github.com/Thejo96/Mario-Game-Program-In-Python-With-Source-Code/assets/132360887/c5f8f651-bf17-4c21-9b11-23806f9e45e5)
+![end](https://github.com/Thejo96/Mario-Game-Program-In-Python-With-Source-Code/assets/132360887/1e8ab4bd-e867-427c-9a3a-90de7d2458e1)
+![dragon](https://github.com/Thejo96/Mario-Game-Program-In-Python-With-Source-Code/assets/132360887/0585c561-a49c-4ef4-9511-5803843d521d)
+![cactus_bricks](https://github.com/Thejo96/Mario-Game-Program-In-Python-With-Source-Code/assets/132360887/91b4e7f7-9581-465d-ac1e-00ac74d0eb92)
+
 We welcome contributions to make our Super Mario 2D game even better! Feel free to fork the repository, make your improvements, and submit a pull request.
 
 Credits
